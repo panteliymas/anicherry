@@ -1,0 +1,27 @@
+{
+  "name": "anime-ukr-db-web",
+  "version": "1.0.0",
+  "description": "Anime Database in Ukrainian",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "mix": "mix",
+    "mix watch": "mix watch",
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panteliymas/anime-ukr-db-web.git"
+  },
+  "keywords": [
+    "anime",
+    "animedb",
+    "ukranime"
+  ],
+  "author": "panteliymas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panteliymas/anime-ukr-db-web/issues"
+  },
+  "homepage": "https://github.com/panteliymas/anime-ukr-db-web#readme"
+}
