@@ -1,3 +1,8 @@
 LICENSE
 .env
 node_modules/*
+init.sh
+public/*
+babel.config.js
+.babelrc
+jsconfig.json
