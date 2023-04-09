@@ -6,4 +6,4 @@ public/*
 babel.config.js
 .babelrc
 jsconfig.json
-cert/*
+cert
